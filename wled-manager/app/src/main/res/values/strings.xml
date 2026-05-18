@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WLED Manager</string>
+    <string name="device_control">Device Control</string>
+    <string name="add_device">Add Device</string>
+    <string name="hint_ip_address">IP Address (e.g. 192.168.1.100)</string>
+    <string name="add">Add</string>
+    <string name="scan_network">Scan Network</string>
+    <string name="scan_message">Enter subnet prefix to scan (e.g. 192.168.1)</string>
+    <string name="scan">Scan</string>
+    <string name="no_devices">No devices added yet.\nTap + to add a device.</string>
+    <string name="device_already_added">Device already in list</string>
+    <string name="refreshing">Refreshing devices…</string>
+    <string name="scanning">Scanning network, this may take a moment…</string>
+    <string name="no_devices_found">No WLED devices found</string>
+    <string name="found_devices">Found %d device(s)</string>
+    <string name="power">Power</string>
+    <string name="brightness">Brightness</string>
+    <string name="brightness_value">%d</string>
+    <string name="color">Color</string>
+    <string name="effect">Effect</string>
+    <string name="palette">Palette</string>
+    <string name="speed">Speed</string>
+    <string name="intensity">Intensity</string>
+    <string name="refresh_state">Refresh State</string>
+    <string name="connection_error">Connection error</string>
+    <string name="send_error">Failed to send command</string>
+    <string name="status">Status</string>
+    <string name="open">Open</string>
+</resources>
