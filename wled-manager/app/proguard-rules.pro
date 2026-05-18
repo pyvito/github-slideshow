@@ -1,0 +1,5 @@
+-keep class com.wled.manager.model.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
+-dontwarn okio.**
